@@ -3,10 +3,10 @@
   <channel>
     <title>general.tabTitle</title>
     <description>Data Platform Prototype</description>
-    <link>/bygdp-indicators/</link>
-    <atom:link href="/bygdp-indicators/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Nov 2026 10:27:47 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2026 10:27:47 +0000</lastBuildDate>
+    <link>/bygdp-indicators_v4/</link>
+    <atom:link href="/bygdp-indicators_v4/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 Nov 2026 10:34:43 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:34:43 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
   </channel>
