@@ -9,7 +9,7 @@
 {% endif %}
 
 {% if site.environment == 'staging' %}
-  {% assign baseurl = 'https://beyondgdp.github.io/bygdp-indicators' %}
+  {% assign baseurl = 'https://beyondgdp.github.io/bygdp-indicators_v4' %}
 {% else %}
   {% assign baseurl = 'https://beyondgdp-germany.github.io' %}
 {% endif %}
@@ -30,7 +30,7 @@
             {% assign indicator_dash = page.indicator.indicator_number | replace: '.', '-' %}
             <div class="col-4 col-md-3 col-lg-2 goal-icon goal-tiles">
                 <!-- <a href="{{ page.goal.url }}" aria-label="{{ page.t.goal.indicators_for_goal }} {{ page.goal.number }}" title="{{ page.t.goal.indicators_for_goal }} {{ page.goal.number }}"> -->
-                    <img src="https://beyondgdp.github.io/bygdp-indicators/assets/img/targets/light/{{ indicator_dash }}.png"
+                    <img src="https://beyondgdp.github.io/bygdp-indicators_v4/assets/img/targets/light/{{ indicator_dash }}.png"
                         alt="{{ indicator_dash }}"
                         id="goal-{{ page.goal.number }}"
                         class="goal-icon-image goal-icon-image-{{ site.goal_image_extension }}"

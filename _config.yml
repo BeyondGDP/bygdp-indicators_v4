@@ -8,7 +8,7 @@
 # Site settings
 title: general.tabTitle #German Indicators For The Sustainable Development Goals
 description: Data Platform Prototype
-baseurl: "/bygdp-indicators" # the subpath of your site, e.g. /blog
+baseurl: "/bygdp-indicators_v4" # the subpath of your site, e.g. /blog
 url: ""
 data_dir: data
 environment: staging
@@ -219,7 +219,7 @@ remote_theme: open-sdg/open-sdg@2.4.0
 
 
 #remote_theme: brockfanning/open-sdg@goal-page-status-css
-goal_image_base: https://beyondgdp.github.io/bygdp-indicators/assets/img/goals/
+goal_image_base: https://beyondgdp.github.io/bygdp-indicators_v4/assets/img/goals/
 
 accessible_tabs: true
 accessible_charts: true
@@ -281,13 +281,13 @@ map_options:
     dashArray: 5,5
 
 map_layers:
-  - serviceUrl:  https://beyondgdp.github.io/bygdp-indicators/assets/maps/boundaries.geojson
+  - serviceUrl:  https://beyondgdp.github.io/bygdp-indicators_v4/assets/maps/boundaries.geojson
     min_zoom: 4.5
     max_zoom: 6.5
     staticBorders: true
     subfolder: laender
     label: indicator.map
-  - serviceUrl:  https://beyondgdp.github.io/bygdp-indicators/assets/maps/boundariesKrs.geojson
+  - serviceUrl:  https://beyondgdp.github.io/bygdp-indicators_v4/assets/maps/boundariesKrs.geojson
     min_zoom: 7
     max_zoom: 11
     staticBorders: false

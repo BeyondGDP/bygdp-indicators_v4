@@ -5,7 +5,7 @@
 {% endif %}
 
 {% if site.environment == 'staging' %}
-  {% assign baseurl = 'https://beyondgdp.github.io/bygdp-indicators' %}
+  {% assign baseurl = 'https://beyondgdp.github.io/bygdp-indicators_v4' %}
 {% else %}
   {% assign baseurl = 'https://beyondgdp-germany.github.io' %}
 {% endif %}
@@ -34,14 +34,14 @@
       <span class="item-label">
         <i class="fa fa-chevron-left" aria-hidden="true" style="padding-right: 10px"></i>
         <span class="item-label item-label-nav hidden-sm hidden-xs">{{ previous }} </span>
-        <img class="item-icon item-icon-nav" src="https://beyondgdp.github.io/bygdp-indicators/assets/img/targets/black/{{ prev_id }}.png" alt="{{ prev_id }}">
+        <img class="item-icon item-icon-nav" src="https://beyondgdp.github.io/bygdp-indicators_v4/assets/img/targets/black/{{ prev_id }}.png" alt="{{ prev_id }}">
       </span>
     </button>
   </section>
   <section>
     <button class="item-btn item-btn-nav {{ color_next }}" onclick="location.href='{{ baseurl }}/{{ language }}/{{ next_id }}'">
       <span class="item-label">
-        <img class="item-icon item-icon-nav" src="https://beyondgdp.github.io/bygdp-indicators/assets/img/targets/black/{{ next_id }}.png" alt="{{ next_id }}">
+        <img class="item-icon item-icon-nav" src="https://beyondgdp.github.io/bygdp-indicators_v4/assets/img/targets/black/{{ next_id }}.png" alt="{{ next_id }}">
         <span class="item-label item-label-nav hidden-sm hidden-xs">{{ next }} </span>
         <i class="fa fa-chevron-right" aria-hidden="true" style="padding-left: 10px"></i>
       </span>
