@@ -1,0 +1,457 @@
+[
+  {
+    "goal": {
+      "id": "1",
+      "title": "Foundational Principles",
+      "indicators": [
+        
+        {
+          "id": "1-1",
+          "title": "Number of total conflict-related deaths per 100,000 population",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/1-1/",
+          "status": "complete"
+        },
+        {
+          "id": "1-1-1",
+          "title": "Number of total conflict-related deaths per 100,000 population",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/1-1-1/",
+          "status": "complete"
+        },
+        {
+          "id": "1-2",
+          "title": "<ul style='padding-left: 15px;'><li>Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months</li> <li>Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months</li></ul>",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/1-2/",
+          "status": "complete"
+        },
+        {
+          "id": "1-2-1",
+          "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/1-2-1/",
+          "status": "complete"
+        },
+        {
+          "id": "1-2-2",
+          "title": "Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/1-2-2/",
+          "status": "complete"
+        },
+        {
+          "id": "1-3",
+          "title": "<ul style='padding-left: 15px;'><li>Total greenhouse gas emissions and greenhouse gas emissions per capita</li> <li>Biodiversity intactness index</li></ul>",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/1-3/",
+          "status": "complete"
+        },
+        {
+          "id": "1-3-1",
+          "title": "Total greenhouse gas emissions and greenhouse gas emissions per capita",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/1-3-1/",
+          "status": "complete"
+        },
+        {
+          "id": "1-3-2",
+          "title": "Biodiversity intactness index",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/1-3-2/",
+          "status": "notstarted"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "2",
+      "title": "Current Well-being",
+      "indicators": [
+        
+        {
+          "id": "2-1",
+          "title": "<ul style='padding-left: 15px;'><li>Household disposable income per capita</li> <li>Composite rate of labour underutilization</li> <li>Proportion of time spent on unpaid domestic and care work</li></ul>",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-1/",
+          "status": "complete"
+        },
+        {
+          "id": "2-1-1",
+          "title": "Household disposable income per capita",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-1-1/",
+          "status": "notstarted"
+        },
+        {
+          "id": "2-1-2",
+          "title": "Composite rate of labour underutilization",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-1-2/",
+          "status": "notstarted"
+        },
+        {
+          "id": "2-1-3",
+          "title": "Proportion of time spent on unpaid domestic and care work",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-1-3/",
+          "status": "complete"
+        },
+        {
+          "id": "2-2",
+          "title": "<ul style='padding-left: 15px;'><li>Healthy life expectancy at birth</li> <li>Low-birthweight babies</li></ul>",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-2/",
+          "status": "complete"
+        },
+        {
+          "id": "2-2-1",
+          "title": "Healthy life expectancy at birth",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-2-1/",
+          "status": "notstarted"
+        },
+        {
+          "id": "2-2-2",
+          "title": "Low-birthweight babies (percentage of births)",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-2-2/",
+          "status": "notstarted"
+        },
+        {
+          "id": "2-3",
+          "title": "<ul style='padding-left: 15px;'><li>Proportion of children and young people achieving a minimum proficiency level in reading and mathematics</li> <li>Proportion of youth and adults with information and communications technology skills (ICT)</li></ul>",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-3/",
+          "status": "complete"
+        },
+        {
+          "id": "2-3-1",
+          "title": "Proportion of children and young people achieving a minimum proficiency level in reading and mathematics",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-3-1/",
+          "status": "complete"
+        },
+        {
+          "id": "2-3-2",
+          "title": "Proportion of youth and adults with information and communications technology skills",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-3-2/",
+          "status": "complete"
+        },
+        {
+          "id": "2-4",
+          "title": "<ul style='padding-left: 15px;'><li>Intentional homicides per 100,000 population</li> <li> Proportion of population that feel safe walking alone around the area they live after dark</li></ul>",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-4/",
+          "status": "complete"
+        },
+        {
+          "id": "2-4-1",
+          "title": "Intentional homicides per 100,000 population",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-4-1/",
+          "status": "complete"
+        },
+        {
+          "id": "2-4-2",
+          "title": "Proportion of population that feel safe walking alone around the area they live after dark",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-4-2/",
+          "status": "complete"
+        },
+        {
+          "id": "2-5",
+          "title": "Life satisfaction",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-5/",
+          "status": "complete"
+        },
+        {
+          "id": "2-5-1",
+          "title": "Life satisfaction",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-5-1/",
+          "status": "notstarted"
+        },
+        {
+          "id": "2-6",
+          "title": "Proportion of people saying they felt loneliness “a lot of the day yesterday”",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-6/",
+          "status": "complete"
+        },
+        {
+          "id": "2-6-1",
+          "title": "Proportion of people saying they felt loneliness “a lot of the day yesterday”",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-6-1/",
+          "status": "notstarted"
+        },
+        {
+          "id": "2-7",
+          "title": "Proportion of population satisfied with their last experience of public services",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-7/",
+          "status": "complete"
+        },
+        {
+          "id": "2-7-1",
+          "title": "Proportion of population satisfied with their last experience of public services",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-7-1/",
+          "status": "complete"
+        },
+        {
+          "id": "2-8",
+          "title": "<ul style='padding-left: 15px;'><li>Annual mean levels of fine particulate matter in cities</li> <li> Proportion of population using safely managed drinking water services</li></ul>",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-8/",
+          "status": "complete"
+        },
+        {
+          "id": "2-8-1",
+          "title": "Annual mean levels of fine particulate matter in cities",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-8-1/",
+          "status": "complete"
+        },
+        {
+          "id": "2-8-2",
+          "title": "Proportion of population using safely managed drinking water services",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/2-8-2/",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "3",
+      "title": "Equity & Inclusion",
+      "indicators": [
+        
+        {
+          "id": "3-1",
+          "title": "Wealth share of the richest 1%",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/3-1/",
+          "status": "notstarted"
+        },
+        {
+          "id": "3-1-1",
+          "title": "Wealth share of the richest 1%",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/3-1-1/",
+          "status": "notstarted"
+        },
+        {
+          "id": "3-2",
+          "title": "Gini index (<a href='https://sdg-indicators.de/10-4-2'>SDG 10.4.2</a>)",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/3-2/",
+          "status": "complete"
+        },
+        {
+          "id": "3-2-1",
+          "title": "Gini index",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/3-2-1/",
+          "status": "complete"
+        },
+        {
+          "id": "3-3",
+          "title": "Poverty headcount ratio at societal poverty line (fixed at a baseline)",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/3-3/",
+          "status": "complete"
+        },
+        {
+          "id": "3-3-1",
+          "title": "Poverty headcount ratio at societal poverty line (fixed at a baseline)",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/3-3-1/",
+          "status": "complete"
+        },
+        {
+          "id": "3-4",
+          "title": "Average hourly earnings of women as a proportion of men",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/3-4/",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-1",
+          "title": "Average hourly earnings of women as a proportion of men",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/3-4-1/",
+          "status": "complete"
+        },
+        {
+          "id": "3-5",
+          "title": "Proportion of the rural population who live within 2 km of an all-season road",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/3-5/",
+          "status": "complete"
+        },
+        {
+          "id": "3-5-1",
+          "title": "Proportion of the rural population who live within 2 km of an all-season road",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/3-5-1/",
+          "status": "complete"
+        },
+        {
+          "id": "3-6",
+          "title": "Multidimensional poverty index",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/3-6/",
+          "status": "complete"
+        },
+        {
+          "id": "3-6-1",
+          "title": "Multidimensional poverty index",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/3-6-1/",
+          "status": "notstarted"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "4",
+      "title": "Sustainability & Resilience",
+      "indicators": [
+        
+        {
+          "id": "4-1",
+          "title": "Net produced capital stock",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/4-1/",
+          "status": "complete"
+        },
+        {
+          "id": "4-1-1",
+          "title": "Net produced capital stock",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/4-1-1/",
+          "status": "notstarted"
+        },
+        {
+          "id": "4-2",
+          "title": "<ul style='padding-left: 15px;'><li>Share of youth not in education, employment or training (NEET)</li> <li> Potential years of life lost (PYLL), all causes</li></ul>",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/4-2/",
+          "status": "complete"
+        },
+        {
+          "id": "4-2-1",
+          "title": "Share of youth not in education, employment or training (NEET)",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/4-2-1/",
+          "status": "complete"
+        },
+        {
+          "id": "4-2-2",
+          "title": "Potential years of life lost (PYLL), all causes",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/4-2-2/",
+          "status": "notstarted"
+        },
+        {
+          "id": "4-3",
+          "title": "Share of people who say most people can be trusted",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/4-3/",
+          "status": "complete"
+        },
+        {
+          "id": "4-3-1",
+          "title": "Share of people who say most people can be trusted",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/4-3-1/",
+          "status": "notstarted"
+        },
+        {
+          "id": "4-4",
+          "title": "Proportion of population reporting they have confidence in the civil services",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/4-4/",
+          "status": "complete"
+        },
+        {
+          "id": "4-4-1",
+          "title": "Proportion of population reporting they have confidence in the civil services",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/4-4-1/",
+          "status": "notstarted"
+        },
+        {
+          "id": "4-5",
+          "title": "Environmental assets (land, water, soil and subsoil resources, etc.) building on the System of Environmental Economic Accounting (SEEA) and complemented by ecosystem accounting approaches that capture ecosystems as integrated assets",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/4-5/",
+          "status": "notstarted"
+        },
+        {
+          "id": "4-5-1",
+          "title": "Environmental assets (land, water, soil and subsoil resources, etc.) building on the System of Environmental Economic Accounting (SEEA) and complemented by ecosystem accounting approaches that capture ecosystems as integrated assets",
+          "description": "",
+          "keywords": "",
+          "href": "/bygdp-indicators/en/4-5-1/",
+          "status": "notstarted"
+        }]
+    }
+  }]
